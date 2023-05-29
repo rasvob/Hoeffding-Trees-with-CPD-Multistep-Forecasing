@@ -14,4 +14,19 @@ These notebooks contains source codes for the experiments:
 * *NGC_HT_Day2Day_BySeason_2021*: QDMDC
 * *NGC_HT_Day2Day_ByCP_2021.ipynb*: PCPDMC
 * *NGC_HT_Day2Day_ByCP_ERR_Switch_2021.ipynb*: MCPDMC-SW
-* *NGC_HT_Day2Day_ByCP_ERR_WAVG_2021.ipynb*: MCPDMC-WA
+* *NGC_HT_Day2Day_ByCP_ERR_WAVG_2021.ipynb*: MCPDMC-WA 
+
+## Results folder
+Folder contains *.csv* files with the experiments outputs.
+
+List of change points for the *Low, Medium and High* PELT settings are in files:
+* *BKPS_LOW.csv*
+* *BKPS_MED.csv*
+* *BKPS_HIGH.csv*
+
+These csv files contains the experiments outputs:
+* *NGC_HT_Day2Day_Online_2021.csv*: SMCA
+* *NGC_HT_Day2Day_BySeason_2021.csv*: QDMDC
+* *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_2021.csv*: PCPDMC
+* *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_ERR_Switch_2021.csv*: MCPDMC-SW
+* *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_ERR_WAVG_2021.csv*: MCPDMC-WA 
