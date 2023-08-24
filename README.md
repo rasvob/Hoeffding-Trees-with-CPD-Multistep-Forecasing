@@ -1,4 +1,4 @@
-# Exploring the Potential of Hoeffding Trees with Change Point Detection Employment for Multistep Natural Gas Consumption Forecasting in Continual Learning Scenarios
+# Investigating the Effectiveness of Hoeffding Trees with Change Point Detection in Continual Learning Scenarios for Multistep Natural Gas Consumption Forecasting
 
 Forecasting natural gas consumption, considering seasonality and trends, is crucial in planning its supply and consumption and optimizing the cost of obtaining it, mainly by industrial entities. However, in times of threats to its supply, it is also a critical element that guarantees the supply of this raw material to meet individual consumers' needs, ensuring society's energy security.
 
