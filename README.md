@@ -30,3 +30,20 @@ These csv files contains the experiments outputs:
 * *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_2021.csv*: PCPDMC
 * *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_ERR_Switch_2021.csv*: MCPDMC-SW
 * *NGC_HT_Day2Day_ByCP_{LOW, MED, HIGH}_ERR_WAVG_2021.csv*: MCPDMC-WA 
+
+# Publications
+
+| Title | Journal | Link | Year |
+| -------- | -------- | -------- | -------- |
+| A Natural Gas Consumption Forecasting System for Continual Learning Scenarios based on Hoeffding Trees With Change Point Detection Mechanism   | Uunder rewiew in KNOSYS   | [arXiv](https://arxiv.org/abs/2309.03720)   | 2024 |
+
+```
+@misc{svoboda2023natural,
+title={A Natural Gas Consumption Forecasting System for Continual Learning Scenarios based on Hoeffding Trees with Change Point Detection Mechanism}, 
+author={Radek Svoboda and Sebastian Basterrech and Jędrzej Kozal and Jan Platoš and Michał Woźniak},
+year={2023},
+eprint={2309.03720},
+archivePrefix={arXiv},
+primaryClass={cs.LG}
+}
+```
