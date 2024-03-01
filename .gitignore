@@ -154,6 +154,7 @@ cython_debug/
 
 venv/
 WIP_*
+NGC_Results_Viz copy.ipynb
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
