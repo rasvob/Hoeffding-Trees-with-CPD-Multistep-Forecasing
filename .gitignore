@@ -155,6 +155,10 @@ cython_debug/
 venv/
 WIP_*
 NGC_Results_Viz copy.ipynb
+gas_full.png
+el_full.png
+el_part.png
+gas_part.png
 
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
